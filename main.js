@@ -5,5 +5,5 @@
 // @version      1.0
 // @match        *://*/*
 // @grant        none
-// @run-at       document-start
+// @run          document-start
 // ==/UserScript==
